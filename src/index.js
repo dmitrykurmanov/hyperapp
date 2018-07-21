@@ -584,5 +584,5 @@ export function app(props) {
 
   dispatch(props.init)
   
-  retun dispatch;
+  return dispatch;
 }
